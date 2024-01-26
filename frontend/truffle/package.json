@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Truffle project with SimpleStorage contract",
   "scripts": {
-    "test": "truffle test"
+    "start": "webpack serve --port 3000"
   },
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.1.7"
