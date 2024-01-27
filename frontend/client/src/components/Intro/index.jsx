@@ -5,9 +5,11 @@ import Desc from "./Desc";
 function Intro() {
   return (
     <>
-      <Welcome />
+      
+       <Welcome />
+
       <Tree />
-      <Desc />
+      <Desc /> 
     </>
   );
 }
